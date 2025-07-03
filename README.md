@@ -1,13 +1,13 @@
-# Sistema: EasyClinic
+# Sistema: EasyBook
 ## Problema que resolve
-Organização de agendamentos em consultórios pequenos que usam papel.
+Organização de agendamentos.
 ## Público-alvo
-Profissionais da saúde autônomos.
+Bibliotecas autônomos.
 ## Funcionalidades principais
-- Cadastro de pacientes
-- Agendamento de consultas
-- Emissão de recibos
+- Cadastro de livros
+- Agendamentos
+- Devoluções
 ## Diferencial
-Interface simples e intuitiva com acesso rápido a dados de pacientes.
+Interface simples e intuitiva com acesso rápido a dados de livros e alunos.
 ## Dificuldades técnicas previstas
-Conexão com banco de dados e manipulação de datas/horários.
+Conexão com banco de dados e manipulação de datas.
